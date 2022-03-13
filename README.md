@@ -11,6 +11,20 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 Results:
 
+The BalancedRandomForestClassifier algorithm does the following:
+
+An accuracy score for the model is calculated
+A confusion matrix has been generated
+An imbalanced classification report has been generated
+The features are sorted in descending order by feature importance
+The EasyEnsembleClassifier algorithm does the following:
+
+An accuracy score of the model is calculated
+A confusion matrix has been generated
+An imbalanced classification report has been generated
+
+
+
 ![image](https://user-images.githubusercontent.com/93456209/158084658-66e8173c-139a-43d5-8040-265221833b99.png)
 
 
