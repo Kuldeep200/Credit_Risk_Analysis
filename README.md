@@ -54,4 +54,4 @@ SMOTEENN
 Summary:
 
 
-In the high-risk loan class, all the machine learning models had low precision scores as a function of accurately predicting positives. In the balanced accuracy score, the undersampling model had the lowest score and the AdaBoost classifier had a high score.
+In the high-risk loan class, all the machine learning models had low precision scores as a function of accurately predicting positives. In the balanced accuracy score, the undersampling model had the lowest score and the AdaBoost classifier had a high score.AdaBoost Classifier would be the best model to use to predict credit risk due to the high recall scores for both high and low risk loans.
