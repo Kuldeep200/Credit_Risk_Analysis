@@ -32,6 +32,8 @@ An accuracy score of the model is calculated
 
 
 
+## various techniques used to predictive model for High-Risk loans.
+
 ![image](https://user-images.githubusercontent.com/93456209/158084658-66e8173c-139a-43d5-8040-265221833b99.png)
 
 
@@ -48,8 +50,8 @@ SMOTEENN
 
 
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models (15 pt)
+
 Summary:
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+
+In the high-risk loan class, all the machine learning models had low precision scores as a function of accurately predicting positives. In the balanced accuracy score, the undersampling model had the lowest score and the AdaBoost classifier had a high score.
